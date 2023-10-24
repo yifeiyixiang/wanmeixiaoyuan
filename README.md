@@ -55,3 +55,5 @@ while True:
         Pushplus()
         time.sleep(86400)   #延迟86400秒
 ```
+ ## 不会用可以私信帮忙部署
+ ![505](https://github.com/yifeiyixiang/wanmeixiaoyuan/assets/98005257/f9aa01e0-01db-4694-b136-67e8dd3b63b6)
